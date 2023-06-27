@@ -1,0 +1,14 @@
+Please input the student id (or input q to quit): please input the score: Wrong score!
+Please input the student id (or input q to quit): please input the score: Wrong score!
+Please input the command: Please input the class name (or input q to quit): The average score is: 53.00
+Please input the class name (or input q to quit): The average score is: 56.67
+Please input the class name (or input q to quit): The average score is: 45.88
+GPA = 3.20
+GPA = 2.00
+GPA = 3.40
+Please input the student id (or input q to quit): No match student!
+GPA = 4.14
+GPA = 3.23
+GPA = 3.50
+GPA = 1.41
+GPA = 0.00
