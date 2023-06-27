@@ -1,0 +1,4 @@
+D:/Lab/sep/lab2/cmake-build-debug/CMakeFiles/lab2lib.dir
+D:/Lab/sep/lab2/cmake-build-debug/CMakeFiles/lab2.dir
+D:/Lab/sep/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lab/sep/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
